@@ -1,0 +1,25 @@
+﻿<Window x:Class="GV_Testing_Program_2.BDITestingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GV_Testing_Program_2"
+        mc:Ignorable="d"
+        Title="BDITestingWindow" Height="550" Width="800">
+    <Grid>
+        <TextBlock x:Name="QuestionLabel" HorizontalAlignment="Center" Margin="0,41,0,0" TextWrapping="Wrap" Text="TextBlock" TextAlignment="Center" VerticalAlignment="Top" Height="51" Width="653" FontSize="16"/>
+
+        <RadioButton x:Name="radioButton0" Content="I do not feel sad" HorizontalAlignment="Left" Margin="89,111,0,0" VerticalAlignment="Top" FontSize="16" Height="33" Width="311"/>
+        <RadioButton x:Name="radioButton1a" Content="I feel sad some of the time" HorizontalAlignment="Left" Margin="89,172,0,0" VerticalAlignment="Top" FontSize="16" Height="45" Width="311"/>
+        <RadioButton x:Name="radioButton1b" Content="I feel sad much xof the time" HorizontalAlignment="Left" Margin="89,222,0,0" VerticalAlignment="Top" FontSize="16" Height="45" Width="311"/>
+        <RadioButton x:Name="radioButton2a" Content="I am sad all of the time" HorizontalAlignment="Left" Margin="89,267,0,0" VerticalAlignment="Top" FontSize="16" Height="45" Width="311"/>
+        <RadioButton x:Name="radioButton2b" Content="I am sad all of the time" HorizontalAlignment="Left" Margin="89,317,0,0" VerticalAlignment="Top" FontSize="16" Height="45" Width="311"/>
+        <RadioButton x:Name="radioButton3a" Content="I am sad all of the time" HorizontalAlignment="Left" Margin="89,367,0,0" VerticalAlignment="Top" FontSize="16" Height="45" Width="311"/>
+        <RadioButton x:Name="radioButton3b" Content="I am sad all of the time" HorizontalAlignment="Left" Margin="89,412,0,0" VerticalAlignment="Top" FontSize="16" Height="45" Width="311"/>
+
+        <Button x:Name="nextButton" Content="Next" HorizontalAlignment="Left" Margin="635,183,0,0" VerticalContentAlignment="Center" VerticalAlignment="Top" Height="30" Width="80" FontSize="16" Click="nextButton_Click"/>
+        <Button x:Name="backButton" Content="Back" HorizontalAlignment="Left" Margin="635,245,0,0" VerticalContentAlignment="Center" VerticalAlignment="Top" Height="29" Width="80" FontSize="16" Click="backButton_Click"/>
+        <Button x:Name="submitButton" Content="Finish/Submit" HorizontalAlignment="Left" Margin="618,406,0,0" VerticalContentAlignment="Center" VerticalAlignment="Top" Height="28" Width="114" FontSize="16" Click="submitButton_Click"/>
+
+    </Grid>
+</Window>

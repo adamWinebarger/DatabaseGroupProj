@@ -1,0 +1,29 @@
+﻿<Window x:Class="GV_Testing_Program_2.TesterInfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GV_Testing_Program_2"
+        mc:Ignorable="d"
+        Title="TesterInfoWindow" Height="450" Width="800">
+    <Grid>
+        <!-- Left Side: Input boxes for last, first, middle initial-->
+        <Label Content=" New Tester Information" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.442,0.048" FontSize="30" Width="900" FontWeight="Bold" Background="#FFDDDDDD" Height="75" Padding="15,10,0,0"/>
+        <Label Content="Last Name:" HorizontalAlignment="Left" Margin="39,101,0,0" VerticalAlignment="Top" Padding="0"/>
+        <TextBox x:Name="LastNameTextBox" HorizontalAlignment="Left" Margin="39,122,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="First Name:" HorizontalAlignment="Left" Margin="39,179,0,0" VerticalAlignment="Top" Padding="0"/>
+        <TextBox x:Name="FirstNameTextBox" HorizontalAlignment="Left" Margin="39,200,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Middle Name:" HorizontalAlignment="Left" Margin="41,255,0,0" VerticalAlignment="Top" Padding="0"/>
+        <TextBox x:Name="MiddleNameTextBox" HorizontalAlignment="Left" Margin="39,276,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+
+        <!-- Right side-->
+        <Label Content="Age:" HorizontalAlignment="Left" Margin="508,101,0,0" VerticalAlignment="Top" Padding="0"/>
+        <TextBox x:Name="AgeTextBox" HorizontalAlignment="Left" Margin="537,101,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="67" Height="18" TextChanged="AgeTextBox_TextChanged"/>
+        <Label Content="Gender:" HorizontalAlignment="Left" Margin="508,179,0,0" VerticalAlignment="Top" Padding="0"/>
+        <RadioButton x:Name="MaleRadioButton" Content="Male" HorizontalAlignment="Left" Margin="508,218,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="FemaleRadioButton" Content="Female" HorizontalAlignment="Left" Margin="602,218,0,0" VerticalAlignment="Top"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Margin="520,285,0,0" Padding="2" VerticalAlignment="Top" Width="89" Click="Button_Click"/>
+
+
+    </Grid>
+</Window>

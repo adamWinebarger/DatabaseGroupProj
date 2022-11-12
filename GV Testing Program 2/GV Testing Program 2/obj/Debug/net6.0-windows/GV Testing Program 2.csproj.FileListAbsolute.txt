@@ -1,0 +1,33 @@
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\GV Testing Program 2.csproj.AssemblyReference.cache
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\TestingProfile\TesterInfoWindow.g.cs
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\TestingProfile\TestingMenu.g.cs
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\GV Testing Program 2_MarkupCompile.cache
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\GV Testing Program 2_MarkupCompile.lref
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\bin\Debug\net6.0-windows\GV Testing Program 2.exe
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\bin\Debug\net6.0-windows\GV Testing Program 2.deps.json
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\bin\Debug\net6.0-windows\GV Testing Program 2.runtimeconfig.json
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\bin\Debug\net6.0-windows\GV Testing Program 2.dll
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\bin\Debug\net6.0-windows\GV Testing Program 2.pdb
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\TestingProfile\TesterInfoWindow.baml
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\TestingProfile\TestingMenu.baml
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\GV Testing Program 2.g.resources
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\GV Testing Program 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\GV Testing Program 2.AssemblyInfoInputs.cache
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\GV Testing Program 2.AssemblyInfo.cs
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\GV Testing Program 2.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\GV Testing Program 2.dll
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\refint\GV Testing Program 2.dll
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\GV Testing Program 2.pdb
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\GV Testing Program 2.genruntimeconfig.cache
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\ref\GV Testing Program 2.dll
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\BAI_Stuff\BAITestForm.g.cs
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\BDI2_Stuff\BDITestingWindow.g.cs
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\CDI_Stuff\CDITestingWindow.g.cs
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\RCMAS_Stuff\RCMASTestingWindow.g.cs
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\BAI_Stuff\BAITestForm.baml
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\BDI2_Stuff\BDITestingWindow.baml
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\CDI_Stuff\CDITestingWindow.baml
+C:\Users\adamk\source\repos\GV Testing Program 2\GV Testing Program 2\obj\Debug\net6.0-windows\RCMAS_Stuff\RCMASTestingWindow.baml

@@ -1,0 +1,112 @@
+Item 1
+I am sad once in a while.
+I am sad many times.
+I am sad all the time.
+Item 2
+Nothing will ever work out for me.
+I am not sure if things will work out for me.
+Things will work out for me O.K.
+Item 3
+I do most things O.K.
+I do many things wrong.
+I do everything wrong.
+Item 4
+I have fun in many things.
+I have fun in some things.
+Nothing is fun at all.
+Item 5
+I am important to my family.
+I am not sure if I am important to my family.
+My family is better off without me.
+Item 6
+I hate myself.
+I do not like myself.
+I like myself.
+Item 7
+All bad things are my fault.
+Many bad things are my fault.
+Bad things are not usually my fault.
+Item 8
+I do not think about killing myself.
+I think about killing myself but would not do it.
+I want to kill myself.
+Item 9
+I feel like crying every day.
+I feel like crying many days.
+I feel like crying once in a while.
+Item 10
+I feel cranky all the time.
+I feel cranky many times.
+I am almost never cranky.
+Item 11
+I like being with people.
+I do not like being with people many times.
+I do not want to be with people at all.
+Item 12
+I cannot make up my mind about things.
+It is hard to make up my mind about things.
+I make up my mind about things easily.
+Item 13
+I look O.K.
+There are some bad things about my looks.
+I am ugly.
+Item 14
+I have to push myself all the time to do my schoolwork.
+I have to push myself many times to do my schoolwork.
+Doing schoolwork is not a big problem.
+Item 15
+I have trouble sleeping every night.
+I have trouble sleeping many nights.
+I sleep pretty well.
+Item 16
+I am tired once in a while.
+I am tired many days.
+I am tired all the time.
+Item 17
+Most days I do not feel like eating.
+Many days I do not feel like eating.
+I eat pretty well.
+Item 18
+I do not worry about aches and pains.
+I worry about aches and pains many times.
+I worry about aches and pains all the time.
+Item 19
+I do not feel alone.
+I feel alone many times.
+I feel alone all the time.
+Item 20
+I never have fun at school.
+I have fun at school only once in a while.
+I have fun at school many times.
+Item 21
+I have plenty of friends.
+I have some friends but I wish I had more.
+I do not have any friends.
+Item 22
+My schoolwork is alright.
+My schoolwork is not as good as before.
+I do very badly in subjects I used to be good in.
+Item 23
+I can never be as good as other kids.
+I can be as good as other kids if I want to.
+I am just as good as other kids.
+Item 24
+Nobody really loves me.
+I am not sure if anybody loves me.
+I am sure that somebody loves me.
+Item 25
+It is easy for me to get along with friends.
+I get into arguments with friends many times.
+I get into arguments with friends all the time.
+Item 26
+I fall asleep during the day all the time.
+I fall asleep during the day many times.
+I almost never fall asleep during the day.
+Item 27
+Most days I feel like I can't stop eating.
+Many days I feel like I can't stop eating.
+My eating is O.K.
+Item 28
+It is easy for me to remember things.
+It is a little hard to remember things.
+It is very hard to remember things.
